@@ -1,0 +1,18 @@
+{
+  "name": "Messages - Smaller message text",
+  "description": "Smaller text size for messages so that more fit on a high resolution screen.",
+  "developer": {
+    "name": "Les Orchard",
+    "url": "http://lmorchard.com"
+  },
+  "package_path": "package.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "sms.gaiamobile.org",
+    "css": [],
+    "scripts": ["index.js"]
+  }],
+  "icons": {
+  }
+}
